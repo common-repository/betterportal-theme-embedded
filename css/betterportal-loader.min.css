@@ -1,0 +1,15 @@
+/**
+ * Plugin Name: BetterPortal Theme Embedded
+ * Plugin URI: https://github.com/BetterCorp/wordpress-betterportal-embedded
+ * Description: Handles embedding BetterPortal.cloud embedded theme in your WP Site
+ * Author: BetterCorp
+ * Author URI: https://www.bettercorp.dev
+ * Version: 1.16
+ * License: AGPL-3.0
+ * Text Domain: betterportal-theme-embedded
+ *
+ * Copyright (C) 2016-2024 BetterCorp (PTY) Ltd
+ *
+ * See LICENSE for more details.
+ */
+.bpe-wp-loader {border:16px solid #f3f3f3;border-top:16px solid #3498db;border-radius:50%;width:120px;height:120px;animation:bpe-wp-spin 2s linear infinite;margin:20px auto;}@keyframes bpe-wp-spin {0% { transform:rotate(0deg);}100% { transform:rotate(360deg);}}
